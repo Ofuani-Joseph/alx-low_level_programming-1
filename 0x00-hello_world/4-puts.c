@@ -2,7 +2,8 @@ include <stdio.h>
 
 /**
  * main - Betty point
- * Return: 0 (Success)
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
