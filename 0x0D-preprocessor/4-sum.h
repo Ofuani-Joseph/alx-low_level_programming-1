@@ -3,7 +3,7 @@
 
 /*
  * File: 4-sum.h
- * Auth: Brennan D Baraban
+ * Auth:
  * Desc: Header file that defines a function-like macro SUM(x, y)
  *       that computes the sum of the numbers x and y.
  */
